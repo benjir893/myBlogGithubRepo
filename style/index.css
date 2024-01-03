@@ -5,6 +5,11 @@
     width: 100%;
     height: auto;
     background-color: #c7f5f5;
+    color: rgb(241, 68, 38);
+}
+.tabledeco caption{
+    background-color: rgb(104, 244, 244);
+    color: tomato;
 }
 .ul1deco li a {
     color: tomato;
@@ -18,4 +23,11 @@
     list-style: none;
     display: inline-flex;
     padding: 20px;
+}
+a:hover{
+    text-decoration-color: red;
+    background-color: white;
+    width: 70px;
+    height: 25px;
+    border-radius: 3px;
 }
