@@ -6,3 +6,16 @@
     height: auto;
     background-color: #c7f5f5;
 }
+.ul1deco li a {
+    color: tomato;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 500;
+    text-decoration: none;
+   
+    
+}
+.ul1deco li {
+    list-style: none;
+    display: inline-flex;
+    padding: 20px;
+}
